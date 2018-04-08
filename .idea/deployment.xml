@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="LabServer">
+    <serverData>
+      <paths name="LabServer">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/produtos" local="$PROJECT_DIR$" web="/cti222/produtos" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
